@@ -12,7 +12,6 @@
 [![Railway](https://img.shields.io/badge/Deploy-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-c9a96e?style=for-the-badge)](LICENSE)
 
-[🚀 Live Demo](#deploying-to-railway) · [📖 API Docs](#-api-reference) · [🐛 Report Bug](https://github.com/pinkidagar18/TaskFlow/issues)
 
 </div>
 
