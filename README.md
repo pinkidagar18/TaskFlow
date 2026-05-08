@@ -206,15 +206,6 @@ tasks            → id, title, description, priority, status,
 
 ---
 
-## ☁️ Deploying to Railway
-
-1. Push your repo to GitHub
-2. Go to [railway.app](https://railway.app) → **New Project** → Connect repo
-3. Set environment variable: `JWT_SECRET=your_secret`
-4. Railway auto-deploys your Node.js app ✅
-
-> ⚠️ **Persistent DB:** Railway's filesystem is ephemeral. Mount a Volume and set `DB_PATH=/data/taskflow.db` for persistence.
-
 ---
 
 ## 🤝 Contributing
