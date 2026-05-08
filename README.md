@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="images/taskflow_logo.svg" alt="TaskFlow Logo" width="80" height="80"/>
-
 # TaskFlow
 ### Team Command Center
 
@@ -15,22 +13,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-c9a96e?style=for-the-badge)](LICENSE)
 
 [🚀 Live Demo](#deploying-to-railway) · [📖 API Docs](#-api-reference) · [🐛 Report Bug](https://github.com/pinkidagar18/TaskFlow/issues)
-
-</div>
-
----
-
-## 📸 Preview
-
-<div align="center">
-
-### 🔐 Login Page
-<img src="images/login_page.png" alt="TaskFlow Login" width="100%"/>
-
-<br/>
-
-### 📊 Dashboard
-<img src="images/taskflow.png" alt="TaskFlow Dashboard" width="100%"/>
 
 </div>
 
@@ -210,6 +192,18 @@ project_members  → project_id, user_id, role (admin|member), joined_at
 tasks            → id, title, description, priority, status,
                    due_date, project_id, assigned_to, created_by, timestamps
 ```
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+<img src="images/login_page.png" alt="TaskFlow Login" width="100%"/>
+
+<br/>
+
+### 📊 Dashboard
+<img src="images/taskflow.png" alt="TaskFlow Dashboard" width="100%"/>
 
 ---
 
